@@ -92,7 +92,7 @@ func WhitelabelPost() func(*gin.Context) {
 				application.FlagGatewayMessageContentLimited,
 			)),
 			// TODO: Don't hardcode URL
-			InteractionsEndpointUrl: utils.Ptr(fmt.Sprintf("https://gateway.ticketsbot.cloud/handle/%d", bot.Id)),
+			InteractionsEndpointUrl: utils.Ptr(fmt.Sprintf("https://gateway.chaoskjell44.dev/handle/%d", bot.Id)),
 		}
 
 		if _, err := rest.EditCurrentApplication(context.Background(), data.Token, nil, editData); err != nil {
