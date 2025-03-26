@@ -104,7 +104,13 @@ func WhitelabelPost() func(*gin.Context) {
 				return
 			}
 			fmt.Println(utils.Ptr(err))
-			_ = c.AbortWithError(http.StatusInternalServerError, app.NewServerError(err))
+			  // Generate an error that includes the URL
+			  wrappedErr := fmt.Errorf(
+				"failed to set interactions endpoint to %s: %w",
+				url,
+				err,
+			)
+			_ = c.AbortWithError(http.StatusInternalServerError, app.NewServerError(wrappedErr))
 			return
 		}
 
