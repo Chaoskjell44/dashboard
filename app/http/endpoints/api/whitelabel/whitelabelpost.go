@@ -111,7 +111,6 @@ func WhitelabelPost() func(*gin.Context) {
 				err,
 			)
 			_ = c.AbortWithError(http.StatusInternalServerError, app.NewServerError(wrappedErr))
-			return
 		}
 
 		tokenChangeData := tokenchange.TokenChangeData{
