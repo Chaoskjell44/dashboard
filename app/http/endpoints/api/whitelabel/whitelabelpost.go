@@ -85,6 +85,8 @@ func WhitelabelPost() func(*gin.Context) {
 			currentFlags = *bot.Flags
 		}
 
+
+		fmt.Println(utils.Ptr(fmt.Sprintf("We will be creating an endpoint for: https://gateway.chaoskjell44.dev/handle/%d", bot.Id)))
 		editData := rest.EditCurrentApplicationData{
 			Flags: utils.Ptr(application.BuildFlags(
 				currentFlags,
@@ -101,7 +103,7 @@ func WhitelabelPost() func(*gin.Context) {
 				_ = c.AbortWithError(http.StatusInternalServerError, app.NewServerError(err))
 				return
 			}
-
+			fmt.Println(utils.Ptr(err))
 			_ = c.AbortWithError(http.StatusInternalServerError, app.NewServerError(err))
 			return
 		}
