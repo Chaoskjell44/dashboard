@@ -9,7 +9,7 @@ on:
 
 jobs:
   run:
-    uses: ticketsbot-cloud/template/.github/workflows/template.yaml@main
+    uses: Chaoskjell44/template/.github/workflows/template.yaml@main
     permissions:
       contents: read
       packages: write
