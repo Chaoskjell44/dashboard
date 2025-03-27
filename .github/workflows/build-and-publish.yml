@@ -9,7 +9,7 @@ on:
 
 jobs:
   run:
-    uses: Chaoskjell44/template_whitelabel/.github/workflows/template.yaml@main
+    uses: chaoskjell44/template_whitelabel/.github/workflows/template.yaml@main
     permissions:
       contents: read
       packages: write
