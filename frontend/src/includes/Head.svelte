@@ -1,5 +1,5 @@
 <svelte:head>
-  <title>Hazel a Tickets Cat Dashboard</title>
+  <title>Hazel a Tickets Cat | Dashboard</title>
 
   <!-- Meta -->
   <meta charset="utf-8">
