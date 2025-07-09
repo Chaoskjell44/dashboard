@@ -4,8 +4,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/TicketsBot-cloud/dashboard/config"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/config"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/gorilla/websocket"
 )

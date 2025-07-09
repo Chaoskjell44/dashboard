@@ -5,9 +5,9 @@ import (
 	"math"
 	"fmt"
 
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	"github.com/TicketsBot-cloud/dashboard/utils/types"
-	"github.com/TicketsBot-cloud/dashboard/config"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/utils/types"
+	"github.com/Chaoskjell44/dashboard/config"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/rxdn/gdl/objects/channel/embed"
 	"github.com/rxdn/gdl/objects/interaction/component"

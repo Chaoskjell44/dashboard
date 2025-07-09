@@ -3,7 +3,7 @@ package cache
 import (
 	"context"
 
-	"github.com/TicketsBot-cloud/dashboard/config"
+	"github.com/Chaoskjell44/dashboard/config"
 	"github.com/jackc/pgx/v4/pgxpool"
 	gdlcache "github.com/rxdn/gdl/cache"
 )

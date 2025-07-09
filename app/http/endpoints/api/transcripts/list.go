@@ -4,10 +4,10 @@ import (
 	"context"
 	"errors"
 
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/rpc/cache"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/rpc/cache"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 	cache2 "github.com/rxdn/gdl/cache"
 )

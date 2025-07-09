@@ -3,7 +3,7 @@ package defaults
 import (
 	"testing"
 
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/stretchr/testify/assert"
 )
 

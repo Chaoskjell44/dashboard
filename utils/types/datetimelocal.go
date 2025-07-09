@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/utils"
 )
 
 type DateTimeLocal time.Time

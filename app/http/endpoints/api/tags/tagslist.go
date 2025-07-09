@@ -1,9 +1,9 @@
 package api
 
 import (
-	"github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/utils"
-	"github.com/TicketsBot-cloud/dashboard/utils/types"
+	"github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/utils/types"
 	"github.com/gin-gonic/gin"
 )
 

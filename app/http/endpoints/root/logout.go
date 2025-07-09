@@ -1,8 +1,8 @@
 package root
 
 import (
-	"github.com/TicketsBot-cloud/dashboard/app/http/session"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/app/http/session"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 )
 

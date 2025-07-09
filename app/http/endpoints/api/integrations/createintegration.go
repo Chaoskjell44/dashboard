@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strings"
 
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"

@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/TicketsBot-cloud/common/permission"
-	"github.com/TicketsBot-cloud/dashboard/rpc/cache"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/rpc/cache"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 	cache2 "github.com/rxdn/gdl/cache"
 )

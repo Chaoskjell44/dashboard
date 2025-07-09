@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/TicketsBot/worker/bot/customisation"
 	"github.com/TicketsBot/worker/i18n"

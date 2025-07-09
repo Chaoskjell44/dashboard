@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/TicketsBot-cloud/dashboard/app"
-	"github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/rpc/cache"
+	"github.com/Chaoskjell44/dashboard/app"
+	"github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/rpc/cache"
 	"github.com/gin-gonic/gin"
 	"github.com/rxdn/gdl/objects/user"
 )

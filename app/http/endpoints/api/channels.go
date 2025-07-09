@@ -3,10 +3,10 @@ package api
 import (
 	"sort"
 
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	"github.com/TicketsBot-cloud/dashboard/redis"
-	"github.com/TicketsBot-cloud/dashboard/rpc/cache"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/redis"
+	"github.com/Chaoskjell44/dashboard/rpc/cache"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/rxdn/gdl/objects/channel"
 	"github.com/rxdn/gdl/rest"

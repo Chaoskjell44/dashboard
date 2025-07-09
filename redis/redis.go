@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/TicketsBot-cloud/dashboard/config"
+	"github.com/Chaoskjell44/dashboard/config"
 	"github.com/go-redis/redis/v8"
 )
 

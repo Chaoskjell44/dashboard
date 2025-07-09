@@ -9,12 +9,12 @@ import (
 	"time"
 
 	"github.com/TicketsBot-cloud/common/permission"
-	"github.com/TicketsBot-cloud/dashboard/app"
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	"github.com/TicketsBot-cloud/dashboard/config"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/s3"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/app"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/config"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/s3"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/minio/minio-go/v7"
 )

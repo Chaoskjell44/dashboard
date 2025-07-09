@@ -3,7 +3,7 @@ package database
 import (
 	"context"
 
-	"github.com/TicketsBot-cloud/dashboard/config"
+	"github.com/Chaoskjell44/dashboard/config"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/jackc/pgconn"
 	"github.com/jackc/pgconn/stmtcache"

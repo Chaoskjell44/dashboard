@@ -5,9 +5,9 @@ import (
 	"net/http"
 
 	"github.com/TicketsBot-cloud/common/permission"
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/internal/api"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/internal/api"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/rxdn/gdl/objects/member"
 )

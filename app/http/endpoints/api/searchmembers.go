@@ -3,8 +3,8 @@ package api
 import (
 	"context"
 
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 	"github.com/rxdn/gdl/objects/member"
 )

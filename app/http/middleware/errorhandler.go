@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/TicketsBot-cloud/dashboard/app"
+	"github.com/Chaoskjell44/dashboard/app"
 	"github.com/gin-gonic/gin"
 )
 

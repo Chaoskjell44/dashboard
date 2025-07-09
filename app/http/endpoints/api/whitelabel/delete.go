@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/TicketsBot-cloud/common/whitelabeldelete"
-	"github.com/TicketsBot-cloud/dashboard/app"
-	"github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/redis"
+	"github.com/Chaoskjell44/dashboard/app"
+	"github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/redis"
 	"github.com/gin-gonic/gin"
 )
 

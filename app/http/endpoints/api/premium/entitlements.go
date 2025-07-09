@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/TicketsBot-cloud/common/premium"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/utils"
-	"github.com/TicketsBot-cloud/dashboard/utils/types"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/utils/types"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v4"
 )

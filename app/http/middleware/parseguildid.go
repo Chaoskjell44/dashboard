@@ -3,7 +3,7 @@ package middleware
 import (
 	"strconv"
 
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 )
 

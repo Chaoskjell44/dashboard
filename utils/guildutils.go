@@ -9,8 +9,8 @@ import (
 
 	"github.com/TicketsBot-cloud/common/collections"
 	"github.com/TicketsBot-cloud/common/permission"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/rpc/cache"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/rpc/cache"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/jackc/pgtype"
 	"github.com/rxdn/gdl/objects/guild"

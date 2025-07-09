@@ -6,8 +6,8 @@ import (
 	"strconv"
 
 	"github.com/TicketsBot-cloud/archiverclient"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 )
 

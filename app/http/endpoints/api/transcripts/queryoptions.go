@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/botcontext"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/rxdn/gdl/utils"
 )

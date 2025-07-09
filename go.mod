@@ -1,4 +1,4 @@
-module github.com/TicketsBot-cloud/dashboard
+module github.com/Chaoskjell44/dashboard
 
 go 1.23.0
 

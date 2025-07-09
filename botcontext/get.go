@@ -5,9 +5,9 @@ import (
 	"fmt"
 
 	"github.com/TicketsBot-cloud/common/restcache"
-	"github.com/TicketsBot-cloud/dashboard/config"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/redis"
+	"github.com/Chaoskjell44/dashboard/config"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/redis"
 	"github.com/rxdn/gdl/rest/ratelimit"
 )
 

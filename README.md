@@ -91,8 +91,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors
 
-<a href="https://github.com/TicketsBot-cloud/dashboard/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=TicketsBot-cloud/dashboard" alt="contrib.rocks image" />
+<a href="https://github.com/Chaoskjell44/dashboard/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Chaoskjell44/dashboard" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
@@ -110,16 +110,16 @@ Distributed under the MIT license. See `LICENSE` for more information.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/TicketsBot-cloud/dashboard.svg?style=for-the-badge
-[contributors-url]: https://github.com/TicketsBot-cloud/dashboard/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/TicketsBot-cloud/dashboard.svg?style=for-the-badge
-[forks-url]: https://github.com/TicketsBot-cloud/dashboard/network/members
-[stars-shield]: https://img.shields.io/github/stars/TicketsBot-cloud/dashboard.svg?style=for-the-badge
-[stars-url]: https://github.com/TicketsBot-cloud/dashboard/stargazers
-[issues-shield]: https://img.shields.io/github/issues/TicketsBot-cloud/dashboard.svg?style=for-the-badge
-[issues-url]: https://github.com/TicketsBot-cloud/dashboard/issues
-[license-shield]: https://img.shields.io/github/license/TicketsBot-cloud/dashboard.svg?style=for-the-badge
-[license-url]: https://github.com/TicketsBot-cloud/dashboard/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Chaoskjell44/dashboard.svg?style=for-the-badge
+[contributors-url]: https://github.com/Chaoskjell44/dashboard/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Chaoskjell44/dashboard.svg?style=for-the-badge
+[forks-url]: https://github.com/Chaoskjell44/dashboard/network/members
+[stars-shield]: https://img.shields.io/github/stars/Chaoskjell44/dashboard.svg?style=for-the-badge
+[stars-url]: https://github.com/Chaoskjell44/dashboard/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Chaoskjell44/dashboard.svg?style=for-the-badge
+[issues-url]: https://github.com/Chaoskjell44/dashboard/issues
+[license-shield]: https://img.shields.io/github/license/Chaoskjell44/dashboard.svg?style=for-the-badge
+[license-url]: https://github.com/Chaoskjell44/dashboard/blob/master/LICENSE.txt
 
 [Golang]: https://img.shields.io/badge/Go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white
 [Golang-url]: https://go.dev/

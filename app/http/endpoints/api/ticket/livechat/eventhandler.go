@@ -9,12 +9,12 @@ import (
 	"strconv"
 
 	"github.com/TicketsBot-cloud/common/premium"
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	"github.com/TicketsBot-cloud/dashboard/config"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/internal/api"
-	"github.com/TicketsBot-cloud/dashboard/rpc"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/config"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/internal/api"
+	"github.com/Chaoskjell44/dashboard/rpc"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/golang-jwt/jwt"
 )
 

@@ -5,9 +5,9 @@ import (
 	"errors"
 	"strconv"
 
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/rpc/cache"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/rpc/cache"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/gin-gonic/gin"
 	cache2 "github.com/rxdn/gdl/cache"

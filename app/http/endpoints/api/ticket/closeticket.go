@@ -6,10 +6,10 @@ import (
 	"strconv"
 
 	"github.com/TicketsBot-cloud/common/closerelay"
-	"github.com/TicketsBot-cloud/dashboard/app"
-	"github.com/TicketsBot-cloud/dashboard/database"
-	"github.com/TicketsBot-cloud/dashboard/redis"
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/app"
+	"github.com/Chaoskjell44/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/redis"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/gin-gonic/gin"
 )
 

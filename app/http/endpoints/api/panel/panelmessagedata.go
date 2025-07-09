@@ -3,9 +3,9 @@ package api
 import (
 	"fmt"
 
-	"github.com/TicketsBot-cloud/dashboard/app"
-	"github.com/TicketsBot-cloud/dashboard/botcontext"
-	"github.com/TicketsBot-cloud/dashboard/config"
+	"github.com/Chaoskjell44/dashboard/app"
+	"github.com/Chaoskjell44/dashboard/botcontext"
+	"github.com/Chaoskjell44/dashboard/config"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/rxdn/gdl/objects"
 	"github.com/rxdn/gdl/objects/channel/embed"

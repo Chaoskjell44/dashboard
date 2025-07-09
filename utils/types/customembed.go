@@ -1,7 +1,7 @@
 package types
 
 import (
-	"github.com/TicketsBot-cloud/dashboard/utils"
+	"github.com/Chaoskjell44/dashboard/utils"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/rxdn/gdl/objects/channel/embed"
 )

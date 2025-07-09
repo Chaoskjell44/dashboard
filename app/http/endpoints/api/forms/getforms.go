@@ -3,8 +3,8 @@ package forms
 import (
 	"net/http"
 
-	"github.com/TicketsBot-cloud/dashboard/app"
-	dbclient "github.com/TicketsBot-cloud/dashboard/database"
+	"github.com/Chaoskjell44/dashboard/app"
+	dbclient "github.com/Chaoskjell44/dashboard/database"
 	"github.com/TicketsBot-cloud/database"
 	"github.com/gin-gonic/gin"
 )
