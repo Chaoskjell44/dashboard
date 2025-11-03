@@ -2,7 +2,7 @@ name: Build and Publish
 
 on:
   push:
-    branches: [ "new-dash" ]
+    branches: [ "new-dash", "Fixes" ]
     tags:
       - '*'
   workflow_dispatch:
